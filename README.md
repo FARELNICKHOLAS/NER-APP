@@ -17,10 +17,6 @@ Unduh dan letakkan isinya ke folder `hf_model_ready/` sebelum menjalankan backen
 | PER | Person — nama orang |
 | ORG | Organization — nama organisasi |
 | LOC | Location — nama tempat/lokasi |
-| GPE | Geopolitical Entity |
-| DAT | Date — tanggal/waktu |
-| EVT | Event — nama acara/kejadian |
-| PRD | Product — nama produk |
 
 ## Stack
 
